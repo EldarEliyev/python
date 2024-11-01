@@ -918,3 +918,4 @@
 
 #6.In a 'for' loop, how can you access both the index and value of each element in a list?
 # a)Use a while loop instead
+
